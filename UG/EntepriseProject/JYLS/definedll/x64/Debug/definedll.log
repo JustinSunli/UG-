@@ -1,0 +1,45 @@
+﻿生成启动时间为 2017/11/29 9:38:26。
+     1>项目“F:\ug_two\C#\UG\EntepriseProject\JYLS\definedll\definedll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\definedll.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Vs2010Insatll\VC\bin\x86_amd64\CL.exe /c /I"D:\Program Files\Siemens\NX 8.5\ugopen" /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DEFINEDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\definedll.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt definedll.cpp
+         definedll.cpp
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(41): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(42): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(43): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(71): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(72): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>f:\ug_two\c#\ug\entepriseproject\jyls\definedll\HPoint.h(73): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>definedll.cpp(399): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.dll) 与 Linker 的 OutputFile 属性值(F:\ug_two\C#\UG\EntepriseProject\JYLS\debug_x64\startup\definedll.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         d:\Vs2010Insatll\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\debug_x64\startup\definedll.dll" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\Siemens\NX 8.5\ugopen" libufun.lib libopenpp.lib libopenintpp.lib libugopenint.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\definedll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.lib" /MACHINE:X64 /DLL x64\Debug\definedll.dll.embed.manifest.res
+         x64\Debug\definedll.obj
+         x64\Debug\dllmain.obj
+         x64\Debug\HPoint.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\Vertex.obj
+            正在创建库 F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.lib 和对象 F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.exp
+         definedll.vcxproj -> F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\definedll.dll.embed.manifest" /manifest x64\Debug\definedll.dll.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         definedll.vcxproj -> F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\x64\Debug\definedll.dll
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\definedll.unsuccessfulbuild”。
+         正在对“x64\Debug\definedll.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\ug_two\C#\UG\EntepriseProject\JYLS\definedll\definedll.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.02

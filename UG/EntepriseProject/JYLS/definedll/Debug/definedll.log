@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/10/31 13:02:46。
+     1>项目“F:\ug_two\C#\UG\EntepriseProject\JYLS\definedll\definedll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\definedll.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Vs2010Insatll\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DEFINEDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\definedll.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt definedll.cpp
+         definedll.cpp
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\Debug\definedll.dll) 与 Linker 的 OutputFile 属性值(F:\ug_two\C#\UG\EntepriseProject\JYLS\debug_x64\startup\definedll.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+       Link:
+         d:\Vs2010Insatll\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\debug_x64\startup\definedll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\definedll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\Debug\definedll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\Debug\definedll.lib" /MACHINE:X86 /DLL Debug\definedll.dll.embed.manifest.res
+         Debug\definedll.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+            正在创建库 F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\Debug\definedll.lib 和对象 F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\Debug\definedll.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\definedll.dll.embed.manifest" /manifest Debug\definedll.dll.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         definedll.vcxproj -> F:\ug_two\C#\UG\EntepriseProject\JYLS\Inte3DforUG\Debug\definedll.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\definedll.unsuccessfulbuild”。
+         正在对“Debug\definedll.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\ug_two\C#\UG\EntepriseProject\JYLS\definedll\definedll.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04

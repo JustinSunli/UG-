@@ -1,0 +1,16 @@
+D:\ug_two\UG\EntepriseProject\JYLS\debug_x64\startup\inte3DforUG_CS.dll
+D:\ug_two\UG\EntepriseProject\JYLS\debug_x64\startup\inte3DforUG_CS.pdb
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\ResolveAssemblyReference.cache
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\inte3DforUG_CS.dll
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\inte3DforUG_CS.pdb
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\ModifyDimPlane.Form1.resources
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\GenerateResource.read.1.tlog
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\GenerateResource.write.1.tlog
+D:\ug_two\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\ModifyDimPlane.Form2.resources
+F:\ug_two\C#\UG\EntepriseProject\JYLS\debug_x64\startup\inte3DforUG_CS.dll
+F:\ug_two\C#\UG\EntepriseProject\JYLS\debug_x64\startup\inte3DforUG_CS.pdb
+F:\ug_two\C#\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\ModifyDimPlane.Form1.resources
+F:\ug_two\C#\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\ModifyDimPlane.Form2.resources
+F:\ug_two\C#\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\inte3DforUG_CS.csproj.GenerateResource.Cache
+F:\ug_two\C#\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\inte3DforUG_CS.dll
+F:\ug_two\C#\UG\EntepriseProject\JYLS\inte3DforUG_CS\obj\Debug\inte3DforUG_CS.pdb
